@@ -5,3 +5,4 @@
 - 学习 Git 基本操作
 - 学习分支管理
 - 新功能：Hello World！
+- 已推送至GitHub
